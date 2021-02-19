@@ -23,3 +23,5 @@ npm start
 ```
 
 Caso queira pode criar uma atalho de terminal para rodar o script como na imagem abaixo:
+
+[screenshot](screnshots/screenshot1)
