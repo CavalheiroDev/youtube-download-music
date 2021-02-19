@@ -4,9 +4,9 @@ Um script para automatizar o download de musicas (em formato mp3) usando links d
 
 ## Como foi desenvolvido
 
-biblioteca pupperteer utilizada para fazer a navegação dentro do conversor de mp3 e realizar o download.
+Biblioteca pupperteer utilizada para fazer a navegação dentro do conversor de mp3 e realizar o download.
 
-biblioteca readline para receber o link da música para fazer download.
+Biblioteca readline utilizada para receber o link da música para fazer download.
 
 ## Rodando em sua máquina
 
