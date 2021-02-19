@@ -10,7 +10,7 @@ Biblioteca readline utilizada para receber o link da música para fazer download
 
 ## Rodando em sua máquina
 
-Basta clonar o repositório e instalar as dependências com: 
+Tendo o Node instalado em sua máquina, basta clonar o repositório e instalar as dependências com: 
 
 ```
 git clone https://github.com/CavalheiroDev/youtube-download-music.git
